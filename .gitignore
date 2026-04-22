@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (for later phases)
+*.db
+*.sqlite
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
